@@ -1,4 +1,14 @@
 /**
  * Feuille de style personnalisée
  ============================================ */
+ .navbar-expand-lg{background-color: rgb(8, 7, 7);}
+ .btn-secondary{background-color: black;}
+ .btn-secondary:hover{background-color: burlywood;}
+ .site-navigation .nav-item .nav-link{color: cornsilk;}
+ .btn-primary{background-color: burlywood;}
+ .btn-primary:hover{background-color: burlywood;}
+ .btn-primary:hover{background-color: black;}
+
+
  
+
